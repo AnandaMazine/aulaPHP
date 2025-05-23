@@ -1,0 +1,51 @@
+body {
+    font-family: 'cambria';
+    background-color: #E1ECF9;
+    padding: 30px;
+}
+
+form {
+    background: #8A9FB7;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    margin: 0 auto;
+    color: #091D34;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, select {
+    margin-left: -6px;
+    background-color: #E1ECF9;
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 4px;
+    border: 1px solid #091D34;
+}
+
+input[type="submit"] {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #091D34;
+    color: #eeeee4;
+    border: none;
+    margin-top: 20px;
+    padding: 07px 30px;
+    font-size: 16px;
+    width: 150px;
+    text-align: center;
+    margin-left: 120px;
+}
+
+.grupo {
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    align-items: center;
+    font-size: 16px;
+    gap: 8px;
+}
